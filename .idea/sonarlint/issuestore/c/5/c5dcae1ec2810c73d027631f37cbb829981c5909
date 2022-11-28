@@ -1,0 +1,6 @@
+
+;python:S125"Remove this commented out code.(çµã†şÿÿÿÿ
+ipython:S117Q"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(·ùÎøÿÿÿÿ
+ipython:S117Q"MRename this parameter "Y" to match the regular expression ^[_a-z][a-z0-9_]*$.(·ùÎøÿÿÿÿ
+Mpython:S1656Ç"/Remove or correct this useless self-assignment.(¼™§•úÿÿÿÿ
+Mpython:S1656ã"/Remove or correct this useless self-assignment.(Í»¤­ùÿÿÿÿ
